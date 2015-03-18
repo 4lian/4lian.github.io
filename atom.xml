@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-03-18T15:13:52.211Z</updated>
+  <updated>2015-03-18T15:47:17.561Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,10 +19,22 @@
     <link href="http://yoursite.com/2015/03/18/entropy/"/>
     <id>http://yoursite.com/2015/03/18/entropy/</id>
     <published>2015-03-18T15:13:26.000Z</published>
-    <updated>2015-03-18T15:13:52.211Z</updated>
-    <content type="html"></content>
+    <updated>2015-03-18T15:47:17.561Z</updated>
+    <content type="html"><![CDATA[<p>[sh��ng] </p>
+<h3 id="��">��</h3><p>�أ�entropy��ָ������ϵ�Ļ��ҵĳ̶ȣ����ڿ����ۡ������ۡ����ۡ���������������ѧ������������ҪӦ�ã��ڲ�ͬ��ѧ����Ҳ���������ĸ�Ϊ�����Ķ��壬�Ǹ�����ʮ����Ҫ�Ĳ������صĸ�����³���򡤿�����˹��Rudolf Clausius����1850�����򣬲�Ӧ��������ѧ�С�1948�꣬���͵¡��������¡���ũ��Claude Elwood Shannon����һ�ν��صĸ���������Ϣ���С�</p>
+<ul>
+<li>�ص�<ul>
+<li>������ϵ��״̬��������ֵ���ﵽ״̬�Ĺ����޹أ�</li>
+<li>�صĶ���ʽ�ǣ�dS=dQ/T�����˼���ĳһ���̵��ر�ʱ�����������������̵�ʼ̬����̬��ͬ�Ĺ��̵���ЧӦdQ�����㡣��ע����������dQдΪdQR����ʾ����������ЧӦ��RΪreversible��dQдΪdQIΪ���������̵���ЧӦ��IΪIrreversible����</li>
+<li>TdS����������������T��ǿ�����ʣ�����S�ǹ������ʡ�����ʱ�����뿼����ϵ��������</li>
+<li>ͬ״̬����U��Hһ����һ��ֻ�����صı仯��</li>
+</ul>
+</li>
+</ul>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>[sh��ng] </p>
+<h3 id="��">��</h3><p>�أ�entropy��ָ������ϵ�Ļ��ҵĳ̶ȣ����ڿ����ۡ������ۡ����ۡ���������������ѧ������������ҪӦ�ã��ڲ�ͬ��ѧ����Ҳ������]]>
     </summary>
     
       <category term="entropy" scheme="http://yoursite.com/tags/entropy/"/>
